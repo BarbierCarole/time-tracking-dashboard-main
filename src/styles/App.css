@@ -1,0 +1,150 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500&display=swap");
+/*color primary */
+/* work*/
+/* play*/
+/* study */
+/* exercise */
+/* social */
+/* selfcare */
+/* Neutral */
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #0f1424;
+  height: 100vh;
+  width: 100vw;
+  font-size: 18px;
+  color: #fff;
+  font-family: "Rubik", sans-serif;
+}
+.App h1 {
+  font-size: 2.2em;
+  font-weight: 300;
+  line-height: 1.2em;
+}
+.App h2 {
+  font-size: 0.8em;
+  color: rgba(255, 255, 255, 0.6);
+  line-height: 1.2em;
+}
+.App .main {
+  display: flex;
+  max-width: 1200px;
+  gap: 30px;
+}
+.App .main .report {
+  display: flex;
+  flex-direction: column;
+  width: 250px;
+  background-color: #1c1f4a;
+  border-radius: 15px;
+}
+.App .main .report .header {
+  width: 250px;
+  height: 66%;
+  background-color: #5847eb;
+  border-radius: 15px;
+  padding: 35px;
+}
+.App .main .report .header .profil-img {
+  border-radius: 40px;
+  border: 3px solid #fff;
+  width: 80px;
+  height: 80px;
+}
+.App .main .report .header .profil-name {
+  margin-top: 50px;
+}
+.App .main .report .header .profil-name span:last-child {
+  background-color: royalblue;
+}
+.App .main .report .content {
+  height: 34%;
+  padding: 35px;
+}
+.App .main .boxes {
+  display: flex;
+  flex-direction: row;
+  width: 950px;
+  gap: 30px;
+  flex-wrap: wrap;
+}
+.App .main .boxes > div {
+  border-radius: 15px 15px 50px 50px;
+}
+.App .main .boxes .header {
+  height: 45px;
+  width: 250px;
+}
+.App .main .boxes .content {
+  height: 190px;
+  width: 250px;
+  border-radius: 15px;
+  background-color: #1c1f4a;
+  padding: 35px;
+}
+.App .main .boxes .work {
+  background-color: #ff8c66;
+  border-radius: 20px 20px 50px 50px;
+}
+.App .main .boxes .work .header {
+  background: url("../images/icon-work.svg");
+  background-size: 79px 79px;
+  background-position-x: 160px;
+  background-repeat: no-repeat;
+  background-position-y: -10px;
+}
+.App .main .boxes .play {
+  background-color: #56c2e6;
+}
+.App .main .boxes .play .header {
+  background: url("../images/icon-play.svg");
+  background-size: 79px 79px;
+  background-position-x: 160px;
+  background-repeat: no-repeat;
+  background-position-y: -10px;
+}
+.App .main .boxes .study {
+  background-color: #ff5c7c;
+}
+.App .main .boxes .study .header {
+  background: url("../images/icon-study.svg");
+  background-size: 79px 79px;
+  background-position-x: 160px;
+  background-repeat: no-repeat;
+  background-position-y: -10px;
+}
+.App .main .boxes .exercise {
+  background-color: #4acf81;
+}
+.App .main .boxes .exercise .header {
+  background: url("../images/icon-exercise.svg");
+  background-size: 79px 79px;
+  background-position-x: 160px;
+  background-repeat: no-repeat;
+  background-position-y: -10px;
+}
+.App .main .boxes .social {
+  background-color: #7536d3;
+}
+.App .main .boxes .social .header {
+  background: url("../images/icon-social.svg");
+  background-size: 79px 79px;
+  background-position-x: 160px;
+  background-repeat: no-repeat;
+  background-position-y: -10px;
+}
+.App .main .boxes .selfcare {
+  background-color: #f1c65b;
+}
+.App .main .boxes .selfcare .header {
+  background: url("../images/icon-self-care.svg");
+  background-size: 79px 79px;
+  background-position-x: 160px;
+  background-repeat: no-repeat;
+  background-position-y: -10px;
+}
+
+/*# sourceMappingURL=App.css.map */
