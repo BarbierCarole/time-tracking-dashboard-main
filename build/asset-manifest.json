@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/profile-card-component-main/static/css/main.5a26c78c.chunk.css",
+    "main.js": "/profile-card-component-main/static/js/main.53ffa6b6.chunk.js",
+    "main.js.map": "/profile-card-component-main/static/js/main.53ffa6b6.chunk.js.map",
+    "runtime-main.js": "/profile-card-component-main/static/js/runtime-main.1522de93.js",
+    "runtime-main.js.map": "/profile-card-component-main/static/js/runtime-main.1522de93.js.map",
+    "static/js/2.a14efbe9.chunk.js": "/profile-card-component-main/static/js/2.a14efbe9.chunk.js",
+    "static/js/2.a14efbe9.chunk.js.map": "/profile-card-component-main/static/js/2.a14efbe9.chunk.js.map",
+    "static/js/3.4500b988.chunk.js": "/profile-card-component-main/static/js/3.4500b988.chunk.js",
+    "static/js/3.4500b988.chunk.js.map": "/profile-card-component-main/static/js/3.4500b988.chunk.js.map",
+    "index.html": "/profile-card-component-main/index.html",
+    "static/css/main.5a26c78c.chunk.css.map": "/profile-card-component-main/static/css/main.5a26c78c.chunk.css.map",
+    "static/js/2.a14efbe9.chunk.js.LICENSE.txt": "/profile-card-component-main/static/js/2.a14efbe9.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/profile-card-component-main/static/media/icon-work.a3f124e5.svg",
+    "static/media/image-jeremy.71cd41f1.png": "/profile-card-component-main/static/media/image-jeremy.71cd41f1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1522de93.js",
+    "static/js/2.a14efbe9.chunk.js",
+    "static/css/main.5a26c78c.chunk.css",
+    "static/js/main.53ffa6b6.chunk.js"
+  ]
+}
